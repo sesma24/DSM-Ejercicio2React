@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.estilo{
+  background-color: forestgreen;
+  font: inherit;
+  border: '1px solid blue';
+  padding: '8px';
+  cursor: 'pointer';
+}
+
+.Forma{
+  float: left;
+  height: 50px;
+  width: 50px;
+  padding: 2px;
+}
+
+.Centrar{
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}

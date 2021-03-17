@@ -1,0 +1,12 @@
+.ResultadoOk{
+    background-color: greenyellow;
+    font: bold;
+    border: '5px solid blue';
+    padding: '20px';
+}
+.ResultadoNoOk{
+    background-color: red;
+    font: bold;
+    border: '5px solid blue';
+    padding: '20px';
+}
